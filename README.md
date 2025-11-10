@@ -8,7 +8,7 @@ It helps management analyze sales trends, profitability and customer behavior fo
 
 
 ---
-## 🎯Project Objectives
+## 🎯 Project Objectives
 
 - Visualize **total sales** and **order trends** in one dashboard.  
 - Analyze performance by **product category, gender, and age group**.  
