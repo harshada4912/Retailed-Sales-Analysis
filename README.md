@@ -109,7 +109,8 @@ You can display these metrics as KPI Cards or Summary Tiles at the top of your d
 ---
 
 ## 📷 Dashboard Preview  
-<img width="1164" height="655" alt="Screenshot 2025-11-08 231720" src="https://github.com/user-attachments/assets/77df2455-82aa-42d5-b7f1-0d0c9ef79143" />
+<img width="1311" height="734" alt="Screenshot 2025-11-10 221942" src="https://github.com/user-attachments/assets/6700e6fb-9aff-473d-b327-44a039421aca" />
+
 
 
 ---
