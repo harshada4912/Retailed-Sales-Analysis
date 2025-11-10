@@ -1,4 +1,5 @@
-## 🛍️  Retailed-Sales-Anlaysis
+## 🛍️  Retailed-Sales-Anlaysis Dashboard
+
 📘 Project Overview
 
 The Retail Sales Analysis Dashboard provides key insights into sales performance, profitability, and customer trends using transactional data.
