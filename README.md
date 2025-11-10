@@ -112,6 +112,7 @@ You can display these metrics as KPI Cards or Summary Tiles at the top of your d
 <img width="1164" height="655" alt="Screenshot 2025-11-08 231720" src="https://github.com/user-attachments/assets/77df2455-82aa-42d5-b7f1-0d0c9ef79143" />
 
 
+---
 
 <img width="1149" height="646" alt="Screenshot 2025-11-09 152820" src="https://github.com/user-attachments/assets/600d336a-77be-427c-a6bc-4b062494eeac" />
 
