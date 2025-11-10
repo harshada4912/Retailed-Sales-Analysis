@@ -6,7 +6,7 @@ It helps businesses understand which products, categories, and customer segments
 It helps management analyze sales trends, profitability and customer behavior for better business decisions.It allows users to explore performance by month, gender, and product category, helping retailers understand what drives their revenue and profit.
 
 
-
+---
 ## 🎯 Project Objectives
 
 - Visualize **total sales** and **order trends** in one dashboard.  
@@ -14,7 +14,7 @@ It helps management analyze sales trends, profitability and customer behavior fo
 - Identify **top-performing months** and **customer segments**.  
 - Create an **interactive and dynamic dashboard** with filters and highlights.  
 - Generate **automated insights** using Smart Narrative visual.
-
+---
   
 ## 📂 Dataset Information
 
@@ -37,7 +37,7 @@ It helps management analyze sales trends, profitability and customer behavior fo
 | **Avg Discount**     | Average discount applied on the product                        |
 
 
-
+---
 🎯 Project Objectives
 
 - Identify top-performing product categories and their sales contribution.
@@ -46,8 +46,9 @@ It helps management analyze sales trends, profitability and customer behavior fo
 - Evaluate customer behavior by gender and purchasing patterns.
 - Visualize monthly and seasonal performance trends.
 
+--- 
 
-  | **KPI Name**                      | **Description / Insight**                        | **DAX Formula (Power BI)**                                                      |
+| **KPI Name**                      | **Description / Insight**                        | **DAX Formula (Power BI)**                                                      |
 | --------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------- |
 | 🏆 **Total Sales**                | Measures total revenue from all transactions     | `Total Sales = SUM(Sales[Total Sales])`                                         |
 | 💰 **Total Profit**               | Calculates total profit across all sales         | `Total Profit = SUM(Sales[Profit])`                                             |
@@ -56,6 +57,7 @@ It helps management analyze sales trends, profitability and customer behavior fo
 | 📦 **Total Quantity Sold**        | Total units sold across all products             | `Total Quantity = SUM(Sales[Quantity])`                                         |
 | 🛍️ **Average Order Value (AOV)** | Average revenue per transaction                  | `Avera                                                                          |
 
+---
 
 🧭 Recommended KPI Cards in Power BI
 
@@ -68,7 +70,7 @@ You can display these metrics as KPI Cards or Summary Tiles at the top of your d
 - Average Discount (%) 💸
 - Monthly Sales Growth (%) 📊
 
-
+---
 
 ## 📈 Visuals Used  
 
@@ -80,10 +82,11 @@ You can display these metrics as KPI Cards or Summary Tiles at the top of your d
 - 📋 Table  – Monthly sales and profit summary
 - ⚙️ Gauge Chart – Sum of Quantity
 
-
+---
 
   ## 🎛️ Filters (Slicers) Used
-  | **Slicer**   | **Field**        | **Function**                                       |
+  
+| **Slicer**   | **Field**        | **Function**                                       |
 | ------------ | ---------------- | -------------------------------------------------- |
 | **Year**     | Year             | Filter visuals to display data for a specific year |
 | **Gender**   | Gender           | View and compare sales performance by gender       |
@@ -93,7 +96,7 @@ You can display these metrics as KPI Cards or Summary Tiles at the top of your d
 | *(Optional)* | Customer ID      | Analyze purchase patterns of individual customers  |
 
   
-
+---
 
 ## 🛠️ Tools Used  
 
@@ -110,11 +113,11 @@ You can display these metrics as KPI Cards or Summary Tiles at the top of your d
 <img width="1149" height="646" alt="Screenshot 2025-11-09 152820" src="https://github.com/user-attachments/assets/600d336a-77be-427c-a6bc-4b062494eeac" />
 
 
-
+---
 
 ## 📎 Author  
 
 **👤 Name:** Harshada Pawar
 **📧 Email:** [harshadapawar4912@gmail.com](mailto:prafullwahatule@gmail.com)  
 **💻 GitHub:** [harshada4912](https://github.com/harshada4912)  
-
+---
