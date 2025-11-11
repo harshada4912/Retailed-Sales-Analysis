@@ -50,6 +50,9 @@ It helps management analyze sales trends, profitability and customer behavior fo
 
 --- 
 
+
+
+
 | **KPI Name**                      | **Description / Insight**                        | **DAX Formula (Power BI)**                                                      |
 | --------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------- |
 | 🏆 **Total Sales**                | Measures total revenue from all transactions     | `Total Sales = SUM(Sales[Total Sales])`                                         |
