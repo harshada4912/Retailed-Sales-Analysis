@@ -39,6 +39,7 @@ It helps management analyze sales trends, profitability and customer behavior fo
 
 
 ---
+
 🎯 Project Objectives
 
 - Identify top-performing product categories and their sales contribution.
